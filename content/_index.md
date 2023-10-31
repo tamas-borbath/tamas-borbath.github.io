@@ -19,9 +19,9 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-   - block: experience
-     content:
-       title: Experience
+  - block: experience
+    content:
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -44,7 +44,15 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
+        - title: Application Lead
+          company: ENTSO-E
+          company_url: 'https://www.entsoe.eu'
+          company_logo: org-x
+          location: Brussels
+          date_start: '2018-01-01'
+          date_end: '2019-08-31'
+          description: I coordinated the operation and development of shared big data platforms for market and statistical data of European power system actors.
+        - title: Professor of Semi
           company: University X
           company_url: ''
           company_logo: org-x
