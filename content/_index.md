@@ -31,35 +31,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: PhD Researcher
+          company: KU Leuven and EnergyVille
+          company_url: 'https://www.esat.kuleuven.be/electa'
+          company_logo: org-kuleuven
+          location: Leuven, BE
+          date_start: '2019-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: I am researching the Grid Aspects of Power System Adequacy at the Electrical Energy & Computer Architectures (ELECTA) research group of KU Leuven and the Decision Support for Grid Operators team of Energyville.
         - title: Application Lead
-          company: ENTSO-E
+          company: ENTSO-E Digital Section
           company_url: 'https://www.entsoe.eu'
-          company_logo: org-x
-          location: Brussels
+          company_logo: org-entsoe
+          location: Brussels, BE
           date_start: '2018-01-01'
           date_end: '2019-08-31'
-          description: I coordinated the operation and development of shared big data platforms for market and statistical data of European power system actors.
-        - title: Professor of Semi
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: I coordinated the operation and development of shared big data platforms for [market](https://transparency.entsoe.eu) and statistical data of European power system actors.
+        - title: Subject Matter Expert
+          company: GE Digital Energy
+          company_url: 'https://www.ge.com/digital/applications/transmission/advanced-energy-management-system-aems'
+          company_logo: org-ge
+          location: Bucharest, RO & Redmond, WA
+          date_start: '2014-10-01'
+          date_end: '2018-06-01'
+          description: I specialized in data-intensive digital solutions for power system operators. Worked with 20+ utilities from 5 continents and contributed code and design to GE's Advanced EMS Platform and Network Model Manager.
     design:
       columns: '2'
   # - block: accomplishments
