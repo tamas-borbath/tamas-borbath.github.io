@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Tamás Borbáth Personal Website - PhD Researcher KU Leuven and EnergyVille - Power System Adequacy'
+    description: 'Tamás Borbáth's Personal Website - PhD Researcher KU Leuven and EnergyVille - Power System Adequacy'
     twitter: 'tamasborbath'
   analytics:
     google_analytics: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/tamas-borbath/tamas-borbath.github.io'
     content_dir: content
     branch: main
   avatar:
