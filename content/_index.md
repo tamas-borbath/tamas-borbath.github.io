@@ -202,19 +202,18 @@ sections:
       subtitle:
       text: |-
         Let's Connect!
-        Have questions, feedback, or just want to say hello? Fill out the form below, and I'll get back to you as soon as possible. Looking forward to hearing from you!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: tamas.borbath@ieee.org
       phone: 
       appointment_url:
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Kasteelpark Arenberg 10, bus 2445
+        city: Leuven
+        region: 
+        postcode: '3001'
+        country: Belgium
+        country_code: BE
+      directions:
       office_hours:
       contact_links:
         - icon: twitter
