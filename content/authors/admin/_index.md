@@ -119,6 +119,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I'm Tamas Borbath, a PhD researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and part of the [EnergyVille](https://www.energyville.be/en/research/electrical-networks) research center in Belgium. With a rich background from roles at GE Digital and ENTSO-E, my research interests lie in power engineering, decision support systems, optimization tools, market and economic studies, and resource adequacy. Beyond my academic pursuits, I channel my energy into triathlons and marathons. Explore more about my ongoing work and publications here.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
