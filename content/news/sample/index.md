@@ -1,6 +1,6 @@
 ---
 title: this is a
-date: 2019-07
+date: 2019-07-20
 #math: true
 draft: false
 tags:
