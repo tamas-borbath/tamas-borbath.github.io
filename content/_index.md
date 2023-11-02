@@ -138,6 +138,11 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+    archive:
+      enable: true
+      text: See news archive
+      link: news/
+
   # - block: portfolio
   #   id: projects
   #   content:
