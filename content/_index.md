@@ -21,13 +21,19 @@ sections:
   #     columns: '1'
   - block: markdown
     content:
-      title: My title
+      title: Recent News
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: |2-
+        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+          Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
   - block: experience
     content:
       title: Experience
