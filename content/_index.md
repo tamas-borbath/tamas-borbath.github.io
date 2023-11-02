@@ -27,9 +27,9 @@ sections:
         Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
           Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+            * Analysing
+            * Modelling
+            * Deploying
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
