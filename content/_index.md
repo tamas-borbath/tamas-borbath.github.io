@@ -157,20 +157,26 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      #count: 3
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+      # archive:
+      #   enable: true
+      #   text: See all my publications
+      #   link: publication/
+    design:
+      columns: '2'
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
