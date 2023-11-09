@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 
+title: Tamás Borbáth
 
 # Name pronunciation (optional)
-name_pronunciation: Tamás Borbáth
+#name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Tamás

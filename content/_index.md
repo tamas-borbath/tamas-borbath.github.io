@@ -53,23 +53,23 @@ sections:
           location: Leuven, BE
           date_start: '2019-09-01'
           date_end: ''
-          description: I am researching the Grid Aspects of Power System Adequacy at the Electrical Energy & Computer Architectures (ELECTA) research group of KU Leuven and the Decision Support for Grid Operators team of Energyville.
+          description: I am researching the Grid Aspects of Power System Adequacy at the [Electrical Energy & Computer Architectures (ELECTA)](https://www.esat.kuleuven.be/electa') research group of KU Leuven and the [Decision Support for Grid Operators team of Energyville](https://www.energyville.be/en/research/electrical-networks).
         - title: Application Lead
           company: ENTSO-E Digital Section
           company_url: 'https://www.entsoe.eu'
           company_logo: org-entsoe
           location: Brussels, BE
-          date_start: '2018-01-01'
+          date_start: '2018-07-01'
           date_end: '2019-08-31'
-          description: I coordinated the operation and development of shared big data platforms for [market](https://transparency.entsoe.eu) and statistical data of European power system actors.
-        - title: Subject Matter Expert
+          description: I coordinated the operation and development of shared big data platforms for [market](https://transparency.entsoe.eu) and [statistical data](https://www.entsoe.eu/publications/statistics-and-data/) of European power system actors.
+        - title: Subject Matter Expert (multiple positions)
           company: GE Digital Energy
-          company_url: 'https://www.ge.com/digital/applications/transmission/advanced-energy-management-system-aems'
+          company_url: 'https://www.ge.com/digital/applications/transmission/'
           company_logo: org-ge
           location: Bucharest, RO & Redmond, WA
-          date_start: '2014-10-01'
-          date_end: '2018-06-01'
-          description: I specialized in data-intensive digital solutions for power system operators. Worked with 20+ utilities from 5 continents and contributed code and design to GE's Advanced EMS Platform and Network Model Manager.
+          date_start: '2014-11-01'
+          date_end: '2018-07-01'
+          description: I specialized in data-intensive digital solutions for power system operators. Worked with 20+ utilities from 5 continents and contributed code and design to [GE's Advanced EMS Platform](https://www.ge.com/digital/applications/transmission/advanced-energy-management-system-aems) and Network Model Manager.
     design:
       columns: '2'
   # - block: accomplishments
@@ -111,38 +111,6 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-     # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - news
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false  
-        exclude_past: false
-        publication_type: ""
-       # Choose how many pages you would like to offset by
-      offset: 0
-       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
-    archive:
-      enable: true
-      text: See news archive
-      link: news/
-
   # - block: portfolio
   #   id: projects
   #   content:
@@ -213,7 +181,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  # - block: tag_cloud
+  # # - block: tag_cloud
   #   content:
   #     title: Popular Topics
   #   design:
