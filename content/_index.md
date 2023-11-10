@@ -197,8 +197,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Let's Connect!
+      text: ''
       # Contact (add or remove contact options as necessary)
       email: tamas.borbath@ieee.org
       phone: 
