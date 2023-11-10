@@ -34,6 +34,15 @@ sections:
 #      # See Page Builder docs for all section customization options.
 #      # Choose how many columns the section has. Valid values: '1' or '2'.
 #      columns: '2'
+  - block: markdown
+    id: news
+    content:
+      title: Recent News
+      subtitle: '[Archived news](news/)'
+      text: |-
+        {{< readfromfile "/content/newslist.dat" 5 >}} 
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -138,14 +147,6 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
   # - block: collection
   #   id: featured
   #   content:
