@@ -200,7 +200,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: tamas.borbath@ieee.org
+      email: me@tamas-borbath.eu
       phone: 
       appointment_url:
       address:
