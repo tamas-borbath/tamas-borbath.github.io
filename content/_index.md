@@ -202,7 +202,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: me@tamas-borbath.eu
       phone: 
-      appointment_url:
+      appointment_url: https://outlook.office.com/bookwithme/user/dea00f048f3c4cedadfa41118b871351@kuleuven.be?anonymous&ep=plink
       address:
         street: Kasteelpark Arenberg 10, bus 2445
         city: Leuven
