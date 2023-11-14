@@ -21,17 +21,20 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KU Leuven and EnergyVille
-    url: https://www.energyville.be
+  - name: KU Leuven
+    url: https://www.esat.kuleuven.be/electa
+  - name: EnergyVille
+    url: https://www.energyville.be/en/research/electrical-networks
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD researcher in Power Engineering based in Brussels, Belgium.
 
 # Interests to show in About widget
 interests:
-  - Power System Economics
   - Resource Adequacy
+  - Power System Economics
   - Decision Support Systems
+  - International Power Systems
 
 # Education to show in About widget
 education:
