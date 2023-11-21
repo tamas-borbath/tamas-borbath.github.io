@@ -2,7 +2,7 @@
 title: Appropriate Transmission Grid Representation for European Resource Adequacy
   Assessments
 authors:
-- Tamás Borbáth
+- admin
 - Dirk Van Hertem
 date: '2024-02-01'
 publishDate: '2023-11-21T18:08:01.420396Z'
@@ -29,6 +29,8 @@ tags:
 - Resource adequacy
 - Transmission model
 links:
-- name: URL
+- name: ScienceDirect
   url: https://www.sciencedirect.com/science/article/pii/S0306261923017427
+- name: Free Download (Until January 10)
+  url: https://authors.elsevier.com/a/1i7hq15eif8JBJ
 ---
