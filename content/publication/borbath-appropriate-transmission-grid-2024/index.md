@@ -31,6 +31,4 @@ tags:
 links:
 - name: ScienceDirect
   url: https://www.sciencedirect.com/science/article/pii/S0306261923017427
-- name: Free Download (Until January 10)
-  url: https://authors.elsevier.com/a/1i7hq15eif8JBJ
 ---

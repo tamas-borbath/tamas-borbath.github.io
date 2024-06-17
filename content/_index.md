@@ -56,14 +56,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Researcher
+        - title: Researcher
           company: KU Leuven and EnergyVille
           company_url: 'https://www.esat.kuleuven.be/electa'
           company_logo: org-kuleuven
           location: Leuven, BE
           date_start: '2019-09-01'
           date_end: ''
-          description: I am researching the Grid Aspects of Power System Adequacy at the [Electrical Energy & Computer Architectures (ELECTA)](https://www.esat.kuleuven.be/electa') research group of KU Leuven and the [Decision Support for Grid Operators team of Energyville](https://www.energyville.be/en/research/electrical-networks).
+          description: I am researching Transmission Grids and Resource Adequacy at the [Electrical Energy & Computer Architectures (ELECTA)](https://www.esat.kuleuven.be/electa') research group of KU Leuven and the [Decision Support for Transmission Networks team of ETCH Energyville](https://www.energyville.be/en/research/electrical-networks).
         - title: Application Lead
           company: ENTSO-E Digital Section
           company_url: 'https://www.entsoe.eu'

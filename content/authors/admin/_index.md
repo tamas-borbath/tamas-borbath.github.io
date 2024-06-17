@@ -122,6 +122,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm Tamas Borbath, a researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and part of the [EnergyVille](https://www.energyville.be/en/research/electrical-networks) research center in Belgium. With a rich background from roles at GE Digital and ENTSO-E, my research interests lie in power engineering, decision support systems, optimization tools, market and economic studies, and resource adequacy. Beyond my academic pursuits, I channel my energy into triathlons and marathons. Explore more about my ongoing work and publications here.
+I'm a researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and part of the [EnergyVille](https://www.energyville.be/en/research/electrical-networks) research center in Belgium. I have a rich background in supporting large transmission system operators across 30+ countries with digital solutions, gained through my roles at GE Digital and ENTSO-E. My research focuses on transforming power systems, specifically in developing decision support tools and analysing resource adequacy. Recently, I successfully defended (viva) my PhD thesis titled *Transmission Grids and Resource Adequacy - A Cross-Border Perspective*.
+
+Beyond my academic work, I channel my energy into competing in triathlons and marathons. Explore more about my ongoing research and publications here.
 
 {style="text-align: justify;"}
