@@ -40,7 +40,7 @@ sections:
       title: Recent News
       subtitle: '[Archived news](news/)'
       text: |-
-        {{< readfromfile "/content/newslist.dat" 5 >}} 
+        {{< readfromfile "/content/newslist.dat" 15 >}} 
     design:
       columns: '2'
   - block: experience

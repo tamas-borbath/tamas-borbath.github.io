@@ -27,7 +27,7 @@ organizations:
     url: https://www.energyville.be/en/research/electrical-networks
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD researcher in Power Engineering based in Brussels, Belgium.
+bio: I am a PhD researcher in Power Engineering based in Belgium.
 
 # Interests to show in About widget
 interests:
@@ -39,9 +39,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Resource Adequacy
+    - course: PhD in Power Systems
       institution: KU Leuven
-      year: 2024 (Expected)
+      year: 2024
     - course: MEng in Renewable Energy Sources
       institution: Politehnica University of Bucharest
       year: 2016
@@ -122,6 +122,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm Tamas Borbath, a PhD researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and part of the [EnergyVille](https://www.energyville.be/en/research/electrical-networks) research center in Belgium. With a rich background from roles at GE Digital and ENTSO-E, my research interests lie in power engineering, decision support systems, optimization tools, market and economic studies, and resource adequacy. Beyond my academic pursuits, I channel my energy into triathlons and marathons. Explore more about my ongoing work and publications here.
+I'm Tamas Borbath, a researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and part of the [EnergyVille](https://www.energyville.be/en/research/electrical-networks) research center in Belgium. With a rich background from roles at GE Digital and ENTSO-E, my research interests lie in power engineering, decision support systems, optimization tools, market and economic studies, and resource adequacy. Beyond my academic pursuits, I channel my energy into triathlons and marathons. Explore more about my ongoing work and publications here.
 
 {style="text-align: justify;"}
