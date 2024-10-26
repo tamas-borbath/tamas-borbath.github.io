@@ -7,7 +7,7 @@ title: Tamás Borbáth
 
 # Full name (for SEO)
 first_name: Tamás
-last_name: Borbáth
+last_name: Borbáth, PhD
 
 # Status emoji
 status:
@@ -17,17 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Senior Service Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KU Leuven
-    url: https://www.esat.kuleuven.be/electa
-  - name: EnergyVille
-    url: https://www.energyville.be/en/research/electrical-networks
+  - name: Coreso
+    url: https://www.coreso.eu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD researcher in Power Engineering based in Belgium.
+bio: PhD in power systems, triathlete, and marathoner.
 
 # Interests to show in About widget
 interests:
