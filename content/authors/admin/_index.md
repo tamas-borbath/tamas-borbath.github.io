@@ -122,8 +122,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and part of the [EnergyVille](https://www.energyville.be/en/research/electrical-networks) research center in Belgium. I have a rich background in supporting large transmission system operators across 30+ countries with digital solutions, gained through my roles at GE Digital and ENTSO-E. My research focuses on transforming power systems, specifically in developing decision support tools and analysing resource adequacy. Recently, I successfully defended (viva) my PhD thesis titled *Transmission Grids and Resource Adequacy - A Cross-Border Perspective*.
+I work in service development at [Coreso](https://www.coreso.eu/), a regional coordination center focused on enhancing electricity grid security and capacity management across Europe. Before joining Coreso, I was a researcher at [KU Leuven's Electrical Energy Systems and Applications (ELECTA) group](https://www.esat.kuleuven.be/electa) and a part of the EnergyVille research center in Belgium. My background includes extensive experience supporting large transmission system operators in over 30 countries with digital solutions, developed through roles at [GE Digital](https://www.ge.com/digital/industry/grid) and [ENTSO-E](https://www.entsoe.eu/about/). My research has centered on transforming power systems by developing decision support tools and analyzing resource adequacy. I recently completed my PhD, with a thesis titled *Transmission Grids and Resource Adequacy - A Cross-Border Perspective.*
 
-Beyond my academic work, I channel my energy into competing in triathlons and marathons. Explore more about my ongoing research and publications here.
+Outside of work, I’m passionate about endurance sports, regularly competing in marathons and triathlons. Explore more about my work and publications here.
+
+---
 
 {style="text-align: justify;"}
