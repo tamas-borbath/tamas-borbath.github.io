@@ -40,7 +40,7 @@ sections:
       title: Recent News
       subtitle: '[Archived news](news/)'
       text: |-
-        {{< readfromfile "/content/newslist.dat" 15 >}} 
+        {{< readfromfile "/content/newslist.dat" 3 >}} 
     design:
       columns: '2'
   - block: experience
@@ -56,13 +56,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Service Engineer
+          company: Coreso
+          company_url: 'https://www.coreso.eu'
+          company_logo: org-coreso
+          location: Brussels, BE
+          date_start: '2024-10-01'
+          date_end: ''
+          description: I am working on developing coordination services for European Transmission System Operators.
         - title: Researcher
           company: KU Leuven and EnergyVille
           company_url: 'https://www.esat.kuleuven.be/electa'
           company_logo: org-kuleuven
           location: Leuven, BE
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: I am researching Transmission Grids and Resource Adequacy at the [Electrical Energy & Computer Architectures (ELECTA)](https://www.esat.kuleuven.be/electa') research group of KU Leuven and the [Decision Support for Transmission Networks team of ETCH Energyville](https://www.energyville.be/en/research/electrical-networks).
         - title: Application Lead
           company: ENTSO-E Digital Section
@@ -203,9 +211,9 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: me@tamas-borbath.eu
       phone: 
-      appointment_url: https://outlook.office.com/bookwithme/user/dea00f048f3c4cedadfa41118b871351@kuleuven.be?anonymous&ep=plink
+      appointment_url: 
       address:
-        street: Kasteelpark Arenberg 10, bus 2445
+        street: 
         city: Leuven
         region: 
         postcode: '3001'
