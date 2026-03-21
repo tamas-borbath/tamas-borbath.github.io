@@ -4,8 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tamás Borbáth, PhD</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
   <meta name="description" content="Power systems expert. Senior Service Engineer at Coreso.">
   <link rel="stylesheet" href="style.css">
+  <script>
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+  </script>
 </head>
 <body>
   <div class="container">
@@ -25,7 +30,7 @@
     </header>
 
     <section class="intro">
-      <p>I'm a power systems expert with a PhD from KU Leuven, where my research focused on cross-border transmission grids and resource adequacy in European electricity markets. Before academia, I built digital solutions for transmission system operators in 30+ countries at GE Digital and ENTSO-E. I'm currently based in Brussels, developing coordination services for European TSOs at <a href="https://www.coreso.eu/">Coreso</a>.</p>
+      <p>I'm a power systems expert with a PhD from KU Leuven, where my research focused on cross-border transmission grids and resource adequacy in European electricity markets. Before academia, I built digital solutions for transmission system operators in 30+ countries at GE Digital and ENTSO-E. I develop coordination services for European TSOs at <a href="https://www.coreso.eu/">Coreso</a> in Brussels.</p>
       <div class="links-row">
         <a href="https://scholar.google.com/citations?user=8o80RG0AAAAJ">Google Scholar</a>
         <a href="https://www.linkedin.com/in/tamas-borbath/">LinkedIn</a>
@@ -39,12 +44,12 @@
       <h2>Updates</h2>
       <ul class="updates-list">
         <li>
-          <span class="date">Jun 2025</span>
-          <span class="text">🏔️ Completed my first 50 km ultra at the <a href="https://thearctictriple.no/lofoten-ultratrail">Lofoten Ultra-Trail</a>, part of the <a href="https://thearctictriple.no/">Arctic Triple</a>, Norway.</span>
-        </li>
-        <li>
           <span class="date">Jul 2025</span>
           <span class="text">📰 Paper published in <a href="https://doi.org/10.1016/j.apenergy.2025.125810">Applied Energy</a>: <em>Sharing the Shortfall: Algorithmic Solutions for Fair Demand Curtailment in Zonal Power Markets.</em></span>
+        </li>
+        <li>
+          <span class="date">Jun 2025</span>
+          <span class="text">🏔️ Completed my first 50 km ultra at the <a href="https://thearctictriple.no/lofoten-ultratrail">Lofoten Ultra-Trail</a>, part of the <a href="https://thearctictriple.no/">Arctic Triple</a>, Norway.</span>
         </li>
         <li>
           <span class="date">Oct 2024</span>
@@ -64,7 +69,7 @@
         </li>
         <li>
           <span class="date">Nov 2023</span>
-          <span class="text">🏃‍♂️ Running in the <a href="https://www.firenzemarathon.it/en/marathon/">Florence Marathon</a>.</span>
+          <span class="text">🏃‍♂️ Ran the <a href="https://www.firenzemarathon.it/en/marathon/">Florence Marathon</a>.</span>
         </li>
         <li>
           <span class="date">Nov 2023</span>
@@ -72,23 +77,23 @@
         </li>
         <li>
           <span class="date">Oct 2023</span>
-          <span class="text">🍂 Attending the <a href="https://fsr.eui.eu/course/loyola-autumn-research-school-lars/">Loyola Autumn Research School</a> in Florence, organized by the <a href="https://fsr.eui.eu">Florence School of Regulation</a>.</span>
+          <span class="text">🍂 Attended the <a href="https://fsr.eui.eu/course/loyola-autumn-research-school-lars/">Loyola Autumn Research School</a> in Florence, organized by the <a href="https://fsr.eui.eu">Florence School of Regulation</a>.</span>
         </li>
         <li>
           <span class="date">Sep 2023</span>
-          <span class="text">🏃‍♂️ Running in the <a href="https://www.bmw-berlin-marathon.com/en/">Berlin Marathon</a>.</span>
+          <span class="text">🏃‍♂️ Ran the <a href="https://www.bmw-berlin-marathon.com/en/">Berlin Marathon</a>.</span>
         </li>
         <li>
           <span class="date">Jun 2023</span>
-          <span class="text">🔋 Presenting work on marginal value of transmission expansion at the <a href="https://www.lut.fi/en/eem23">European Energy Market Conference</a> in Lappeenranta, Finland.</span>
+          <span class="text">🔋 Presented work on marginal value of transmission expansion at the <a href="https://www.lut.fi/en/eem23">European Energy Market Conference</a> in Lappeenranta, Finland.</span>
         </li>
         <li>
           <span class="date">Mar 2023</span>
-          <span class="text">🌍 Presenting work on dynamic rating of HVDC interconnectors at the <a href="https://acdc.theiet.org">ACDC Europe Conference</a> in Glasgow, UK.</span>
+          <span class="text">🌍 Presented work on dynamic rating of HVDC interconnectors at the <a href="https://acdc.theiet.org">ACDC Europe Conference</a> in Glasgow, UK.</span>
         </li>
         <li>
           <span class="date">Jan 2023</span>
-          <span class="text">🔬 Attending the <a href="https://cnls.lanl.gov/External/">Grid Science Winter School</a> in Santa Fe, NM, organized by Los Alamos National Laboratory.</span>
+          <span class="text">🔬 Attended the <a href="https://cnls.lanl.gov/External/">Grid Science Winter School</a> in Santa Fe, NM, organized by Los Alamos National Laboratory.</span>
         </li>
       </ul>
     </section>
@@ -229,9 +234,6 @@
       btn.textContent = isDark() ? '☀' : '☾';
     }
 
-    // Apply saved preference on load
-    const saved = localStorage.getItem('theme');
-    if (saved) root.setAttribute('data-theme', saved);
     updateButton();
 
     btn.addEventListener('click', () => {
