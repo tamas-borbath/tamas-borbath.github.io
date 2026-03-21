@@ -5,11 +5,11 @@
 }
 
 :root {
-  --bg: #fff1e5;
-  --fg: #33302e;
-  --muted: #a0998f;
-  --accent: #990f3d;
-  --border: #e8d5c4;
+  --bg: #faf3e8;
+  --fg: #2c2825;
+  --muted: #9e978d;
+  --accent: #8b1a3a;
+  --border: #e4d0bb;
   --max-width: 680px;
 }
 
